@@ -2,6 +2,7 @@ name: dt photoblog
 favicon: null
 layout_spectrum: 0.471201054751873
 typography_spectrum: 0.7513996048364788
+title: BotoPhlog
 cta:
   domain: null
   bucket: null
