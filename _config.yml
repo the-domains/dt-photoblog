@@ -1,0 +1,23 @@
+name: dt photoblog
+favicon: null
+layout_spectrum: 0.471201054751873
+typography_spectrum: 0.7513996048364788
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5285028060898185
+  lightness: 0.14631026005372405
+  saturation: 0.8134231679141521
+  rhythmicContrast: 0.2751260264776647
+purpose: []
