@@ -1,8 +1,8 @@
 name: dt photoblog
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.50225
-title: dt family photoblog
+title: dt family photoblog...
 cta:
   domain: null
   bucket: null
